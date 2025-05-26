@@ -39,7 +39,7 @@ Este projeto demonstra o uso de conceitos fundamentais do React Native:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/gerenciador-eventos-react-native.git
+git clone https://github.com/kaiotcp1/imhere-react-native
 
 # Navegue até o diretório do projeto
 cd imhere
